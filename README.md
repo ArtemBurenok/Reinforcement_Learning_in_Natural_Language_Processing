@@ -1,4 +1,4 @@
-# Reinforcement_Learning_in_Natural_Language_Processing
+# Reinforcement Learning in Natural Language Processing
 
 It's my master's thesis. The original plan: 
 + Gather available information about RL.
